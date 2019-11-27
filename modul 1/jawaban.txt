@@ -1,0 +1,16 @@
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda, Pernakah terjadi error ketika adakesalahan kode? 
+2. Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH" content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan apa diantara kegunaan meta dokumen? 
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td
+
+
+Jawaban
+
+1.Tidak
+
+2.Halaman web tidak bisa dibuka jika tidak terkoneksi internet. Meta refresh dengan url=http://google.co.id harus terhubung internet sebagai inisialisasi.
+
+3.	tr : untuk membuat baris baru
+	td : untuk isi dari data (seperti cell pada ms.excel)
+	th : fungsinya sama seperti tr, tapi letak nya di baris awal (sebagai head)
+	thead : menunjukkan bahwa yang ada didalam tag thead adalah tabel head.
+	tbody : menunjukkan bahwa yang ada didalam tag tbody adalah isi data dari tabel.
